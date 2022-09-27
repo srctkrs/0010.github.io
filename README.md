@@ -1,2 +1,5 @@
 # 0010.github.io
-markdown specials
+Markdown specials
+Notepad edition
+Version 0.010
+Button Mashing
